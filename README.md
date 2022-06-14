@@ -19,3 +19,8 @@ sudo cp ./fdd.conf /etc/apache2/sites-available/
 sudo a2ensite gci.conf
 sudo systemctl reload apache2
 ```
+
+## Creating a symbolic link of current folder (e.g. this repository) under `/var/www/fdd/data`
+```
+sudo ln -s $(pwd) /var/www/fdd/data
+```
