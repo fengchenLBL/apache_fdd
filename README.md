@@ -25,4 +25,4 @@ sudo systemctl reload apache2
 sudo ln -s $(pwd) /var/www/fdd/data
 ```
 ## Viwing share data in a web browser
-URL: [data.localhost](data.localhost)
+URL: [data.localhost](http://data.localhost:8008)
