@@ -5,6 +5,12 @@ sudo apt update
 sudo apt install apache2
 ```
 
+## Downloading this repository
+```
+git clone apache_fdd
+cd ./apache_fdd
+```
+
 ## Creating a simple file server
 ```
 sudo mkdir /var/www/fdd/
