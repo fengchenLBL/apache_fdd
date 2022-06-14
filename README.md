@@ -7,7 +7,7 @@ sudo apt install apache2
 
 ## Downloading this repository
 ```
-git clone apache_fdd
+git clone https://github.com/fengchenLBL/apache_fdd.git
 cd ./apache_fdd
 ```
 
