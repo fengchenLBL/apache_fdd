@@ -16,7 +16,7 @@ cd ./apache_fdd
 sudo mkdir /var/www/fdd/
 sudo cp ./index.txt /var/www/fdd/index.html
 sudo cp ./fdd.conf /etc/apache2/sites-available/
-sudo a2ensite gci.conf
+sudo a2ensite fdd.conf
 sudo systemctl reload apache2
 ```
 
