@@ -24,5 +24,5 @@ sudo systemctl reload apache2
 ```
 sudo ln -s $(pwd) /var/www/fdd/data
 ```
-## Viewing/Downloading share data from a web browser
+## Viewing/Downloading shared data from a web browser
 URL: [data.localhost](http://data.localhost:8008)
